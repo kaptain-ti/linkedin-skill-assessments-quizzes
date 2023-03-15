@@ -1450,6 +1450,6 @@ export class CustomValidatorDirective implements Validator {}
 	
 #### Q80. Which Angular CLI command would you use to run your unit tests in a process that reruns your test suite on file changes?
 - [ ] ng test --single-run=false
-- [ ] ng test --watch-files
+- [x] ng test --watch-files
 - [ ] ng test --progress
 - [ ] ng test
